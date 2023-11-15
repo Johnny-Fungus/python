@@ -1,1 +1,0 @@
-print("yaas slay queen")
