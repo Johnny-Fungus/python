@@ -1,0 +1,1 @@
+print("yaas slay queen")
